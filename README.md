@@ -4,6 +4,6 @@ Hi everyone! This repository will document my personal walkthroughs of TryHackMe
 ## Structure
 Each room has its own folder inside '/rooms' and contains:
 - 'walkthrough.md' -Step-by-step notes, commands, and answers.
--  'scrennshots/' - Any reference screenshots or visual aids.
+-  'screenshots/' - Any reference screenshots or visual aids.
 ## License
 -  This project is licensed under the MIT License - see [LICENSE] for details
